@@ -29,5 +29,5 @@
 
 ## Полезные материалы
 - Курс лекций по Java Core от Тагира Валиева (Java Tech Lead в разработке IntelliJ IDEA): https://youtube.com/playlist?list=PLlb7e2G7aSpTCB2OxGlezpgOXwq4xer7Z
-- Spring-построитель, доклад Евгения Борисова: https://www.youtube.com/watch?v=rd6wxPzXQvo&t=3032s&ab_channel=JPoint%2CJoker%D0%B8JUGru
+- Spring-построитель, доклад Евгения Борисова: https://youtu.be/rd6wxPzXQvo
 - Spring-потрошитель, доклад Евгения Борисова: https://youtu.be/BmBr5diz8WA
