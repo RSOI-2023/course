@@ -23,9 +23,9 @@
 
 1. Бизнес-логика и структуры данных: https://github.com/RSOI-2023/lab-1
 2. Перенос приложения в Spring Context: https://github.com/RSOI-2023/lab-2
-3. Spring Data JPA, персистентность данных.
-4. Реализация контроллеров.
-5. Добавление нового функционала. Тестирование.
+3. Spring Data JPA, персистентность данных: https://github.com/RSOI-2023/lab-3
+4. Реализация контроллеров: https://github.com/RSOI-2023/lab-4
+5. Добавление нового функционала, тестирование (в работе): https://github.com/RSOI-2023/lab-5ƒ
 
 ## Полезные материалы
 - Курс лекций по Java Core от Тагира Валиева (Java Tech Lead в разработке IntelliJ IDEA): https://youtube.com/playlist?list=PLlb7e2G7aSpTCB2OxGlezpgOXwq4xer7Z
