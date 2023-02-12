@@ -11,7 +11,7 @@
 2. Перенос приложения в Spring Context: https://github.com/RSOI-2023/lab-2
 3. Spring Data JPA, персистентность данных: https://github.com/RSOI-2023/lab-3
 4. Реализация контроллеров: https://github.com/RSOI-2023/lab-4
-5. Добавление нового функционала: в работе, TBD
+5. Добавление нового функционала: https://github.com/RSOI-2023/lab-5
 6. Тестирование: TBD
 7. Выполнить одно из заданий на выбор.
 
