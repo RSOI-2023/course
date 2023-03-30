@@ -12,7 +12,7 @@
 3. Spring Data JPA, персистентность данных: https://github.com/RSOI-2023/lab-3
 4. Реализация контроллеров: https://github.com/RSOI-2023/lab-4
 5. Добавление нового функционала: https://github.com/RSOI-2023/lab-5
-6. Тестирование: TBD
+6. Тестирование: https://github.com/RSOI-2023/lab-6
 7. Выполнить одно из заданий на выбор.
 
 #### Задания на выбор
